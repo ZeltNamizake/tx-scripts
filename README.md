@@ -4,7 +4,7 @@
 ![Bash](https://img.shields.io/badge/bash-icon?style=for-the-badge&logo=gnubash&logoColor=white&color=grey)
 ![Status](https://img.shields.io/badge/status-personal-blue?style=for-the-badge)
 
-Collection of small scripts for daily terminal usage
+Collection of small scripts for terminal usage
 
 ## List
 
